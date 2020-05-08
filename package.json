@@ -1,0 +1,23 @@
+{
+  "name": "stripe-follow-along-nav",
+  "version": "1.0.0",
+  "description": "Follow Along Navigation with Dropdown implemented by JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Stripe-Follow-Along-Nav.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Stripe-Follow-Along-Nav/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Stripe-Follow-Along-Nav#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
